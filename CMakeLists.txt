@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.26)
-project(HaloInfiniteSpartanXpCalulator)
+project(HaloInfiniteSpartanXpCalculator)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(HaloInfiniteSpartanXpCalulator main.cpp
+add_executable(HaloInfiniteSpartanXpCalculator main.cpp
         include/Rank.h
         src/Rank.cpp)
