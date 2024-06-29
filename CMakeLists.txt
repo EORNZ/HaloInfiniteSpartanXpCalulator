@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(HaloInfiniteSpartanXpCalculator main.cpp
         include/Rank.h
-        src/Rank.cpp)
+        src/Rank.cpp
+)

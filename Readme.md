@@ -3,8 +3,6 @@
 The following program calculates the days and games last to reach max rank in Halo Infinite
 based on your current rank
 
-Sure, here is the updated list with only the first parameter for each rank:
-
 # List of acceptable ranks:
 
 "Recruit"  
